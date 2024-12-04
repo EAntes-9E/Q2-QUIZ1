@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+	padding: 10px;
+	background-color: #CAD8DE;
+	color: #0F1108;
+	border-radius: 20px;
+
+}
+body {
+	background-color: #645853;
+	color: ghostwhite;
+	font-family:faculty glyphic;
+	background-image: url(https://spectralcodex.com/img/_x/philippines-manila-intramuros-20.hSqQ8NBL_Z16QM0N.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-color:rgba(12, 20, 38, 122);
+	background-blend-mode: soft-light;
+}
+.img-thumbnail {
+	width: 100px;
+	height: 150px;
+}
+.table {
+	border-radius: 3px;
+}
+.mdp {
+	margin-right: 100px;
+	padding: 5px;
+}
+.juan {
+	margin-left: 35px;
+	padding: 5px;
+}
+.sora {
+	margin-left: 5px;
+	padding: 5px;
+}
+.emilio {
+	padding: 5px;
+}
+
+
+footer {
+	text-align: center;
+	padding: 20px;
+}
